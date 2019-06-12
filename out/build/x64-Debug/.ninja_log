@@ -1,0 +1,5 @@
+# ninja log v5
+0	130	582015419	build.ninja	b3317415c00c0adb
+0	810	582015420	CMakeFiles/pureplaytestwindow.dir/main.cpp.obj	72a36d58b0d785eb
+10	903	582015420	CMakeFiles/pureplaytestwindow.dir/src/audio/RtAudio.cpp.obj	58787d2bef0b97c
+1	666	582015545	CMakeFiles/pureplaytestwindow.dir/main.cpp.obj	72a36d58b0d785eb

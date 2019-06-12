@@ -1,0 +1,10 @@
+^C:\USERS\NOHSEONGHUN\GITREPO\PUREPLAYTESTWINDOW\BUILD\CMAKEFILES\461880190CDC13D1F394D2C695AD7BE0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nohseonghun/gitrepo/pureplaytestwindow -BC:/Users/nohseonghun/gitrepo/pureplaytestwindow/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/pureplaytestwindow.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

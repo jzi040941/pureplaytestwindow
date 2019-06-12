@@ -1,0 +1,3 @@
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/pureplaytestwindow.dir
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/ZERO_CHECK.dir

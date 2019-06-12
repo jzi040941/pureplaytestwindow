@@ -1,0 +1,14 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/Sources.cmake'
+    is newer than 'C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.18362.
+  -- Compiling with support for: wasapi
+  -- Could NOT find FFTW (missing: FFTW_LIBRARY FFTW_INCLUDE_DIR) 
+  -- Could NOT find SNDFILE (missing: SNDFILE_LIBRARY SNDFILE_INCLUDE_DIR) 
+  -- Checking processor clipping capabilities...
+  -- Checking processor clipping capabilities... none
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build

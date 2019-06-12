@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/TestBigEndian.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/CMakeLists.txt
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/3.15.0-rc1/CMakeCCompiler.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/3.15.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/3.15.0-rc1/CMakeRCCompiler.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/build/CMakeFiles/3.15.0-rc1/CMakeSystem.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/AudioDrive.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/Libsamplerate.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/Sources.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/libsamplerate/ClipMode.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/libsamplerate/FindFFTW.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/cmake/libsamplerate/FindSndfile.cmake
+C:/Users/nohseonghun/gitrepo/pureplaytestwindow/lib/libsamplerate/config.h.in

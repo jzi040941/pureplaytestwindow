@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\pureplaytestwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\src\audio\RtAudio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\src\util\RT_Base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\src\util\RT_Output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\src\util\CircularBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\src_linear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\samplerate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\src_sinc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\src_zoh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\libsamplerate_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\samplerate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\lib\libsamplerate\float_cast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\include\util\RT_Base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\include\util\RT_Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\include\util\RT_Output.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\include\util\CircularBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nohseonghun\gitrepo\pureplaytestwindow\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DF22BBBA-A473-39C8-AA5D-AC6DC8FD7B05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1B50072B-5E88-342B-81DB-0CE489B2B05E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
